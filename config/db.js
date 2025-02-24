@@ -4,6 +4,7 @@ import { DB_URI } from "./config.js";
 const sequelize = new Sequelize(DB_URI, {
   dialect: "postgres",
   dialectOptions: {
+    application_name: "myapp", // Forzar IPv4
     timezone: "-05:00",
   },
   timezone: "-05:00",
