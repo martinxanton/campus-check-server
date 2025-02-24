@@ -10,6 +10,8 @@ const sequelize = new Sequelize(DB_URI, {
   timezone: "-05:00",
 });
 
+console.log("DB_URI", DB_URI);
+
 // Test connection
 try {
   sequelize.authenticate();
