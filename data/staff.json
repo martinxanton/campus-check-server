@@ -1,0 +1,44 @@
+{
+  "staff": [
+    {
+      "dni": 76543211,
+      "firstName": "Staff1",
+      "lastName": "Staff",
+      "email": "staff1@gmail.com",
+      "phone": "987654321",
+      "user": "staff1",
+      "password": "123456",
+      "assignedGate": 1
+    },
+    {
+      "dni": 76543212,
+      "firstName": "Staff2",
+      "lastName": "Staff",
+      "email": "staff2@gmail.com",
+      "phone": "987654321",
+      "user": "staff2",
+      "password": "123456",
+      "assignedGate": 2
+    },
+    {
+      "dni": 76543213,
+      "firstName": "Staff3",
+      "lastName": "Staff",
+      "email": "staff3@gmail.com",
+      "phone": "987654321",
+      "user": "staff3",
+      "password": "123456",
+      "assignedGate": 3
+    },
+    {
+      "dni": 76543217,
+      "firstName": "Staff7",
+      "lastName": "Staff",
+      "email": "staff7@gmail.com",
+      "phone": "987654321",
+      "user": "staff7",
+      "password": "123456",
+      "assignedGate": 7
+    }
+  ]
+}

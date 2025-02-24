@@ -1,0 +1,3516 @@
+{
+  "people": [
+    {
+      "type": "guest",
+      "dni": "73928564",
+      "firstName": "Juan",
+      "lastName": "Perez"
+    },
+    {
+      "type": "guest",
+      "dni": "84937265",
+      "firstName": "Sofia",
+      "lastName": "Lopez"
+    },
+    {
+      "type": "guest",
+      "dni": "75938472",
+      "firstName": "Miguel",
+      "lastName": "Garcia"
+    },
+    {
+      "type": "guest",
+      "dni": "66938475",
+      "firstName": "Andrea",
+      "lastName": "Martinez"
+    },
+    {
+      "type": "guest",
+      "dni": "77948562",
+      "firstName": "Carlos",
+      "lastName": "Fernandez"
+    },
+    {
+      "type": "guest",
+      "dni": "88937465",
+      "firstName": "Lucia",
+      "lastName": "Rodriguez"
+    },
+    {
+      "type": "guest",
+      "dni": "99928563",
+      "firstName": "David",
+      "lastName": "Gomez"
+    },
+    {
+      "type": "guest",
+      "dni": "55928467",
+      "firstName": "Maria",
+      "lastName": "Diaz"
+    },
+    {
+      "type": "guest",
+      "dni": "66939487",
+      "firstName": "Fernando",
+      "lastName": "Sanchez"
+    },
+    {
+      "type": "guest",
+      "dni": "77948564",
+      "firstName": "Elena",
+      "lastName": "Morales"
+    },
+
+    {
+      "type": "teacher",
+      "dni": "82937465",
+      "firstName": "Ana",
+      "lastName": "Gonzales",
+      "cod": "def456",
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA"
+    },
+    {
+      "type": "teacher",
+      "dni": "72938475",
+      "firstName": "Luis",
+      "lastName": "Ramirez",
+      "cod": "ghi789",
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA"
+    },
+    {
+      "type": "teacher",
+      "dni": "83927461",
+      "firstName": "María",
+      "lastName": "Torres",
+      "cod": "jkl012",
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA"
+    },
+    {
+      "type": "teacher",
+      "dni": "73849572",
+      "firstName": "Jorge",
+      "lastName": "Mendoza",
+      "cod": "mno345",
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA"
+    },
+    {
+      "type": "teacher",
+      "dni": "74839265",
+      "firstName": "Elena",
+      "lastName": "Rojas",
+      "cod": "pqr678",
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA"
+    },
+    {
+      "type": "teacher",
+      "dni": "75938476",
+      "firstName": "Ricardo",
+      "lastName": "Silva",
+      "cod": "stu901",
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA"
+    },
+    {
+      "type": "teacher",
+      "dni": "76829375",
+      "firstName": "Laura",
+      "lastName": "Vargas",
+      "cod": "vwx234",
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA"
+    },
+    {
+      "type": "teacher",
+      "dni": "77839486",
+      "firstName": "Pedro",
+      "lastName": "Cruz",
+      "cod": "yzb567",
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA"
+    },
+    {
+      "type": "teacher",
+      "dni": "78930567",
+      "firstName": "Gabriela",
+      "lastName": "Diaz",
+      "cod": "cde890",
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA"
+    },
+    {
+      "type": "teacher",
+      "dni": "79831658",
+      "firstName": "Hector",
+      "lastName": "Martinez",
+      "cod": "fgh123",
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA"
+    },
+
+    {
+      "cod": 20200111,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200111.jpg?20230927061200",
+      "lastName": "ABAD HUAMAN",
+      "firstName": "FRANCISCO JAVIER",
+      "dni": 74845983,
+      "type": "student"
+    },
+    {
+      "cod": 20200243,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200243.jpg?20210608032456",
+      "lastName": "ALATA GUTIERREZ",
+      "firstName": "JOSE RODOLFO",
+      "dni": 72200118,
+      "type": "student"
+    },
+    {
+      "cod": 20200147,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200147.jpg?20210607091242",
+      "lastName": "ALEJO BERNUY",
+      "firstName": "SERGIO GIOVANNI",
+      "dni": 75131145,
+      "type": "student"
+    },
+    {
+      "cod": 20200242,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200242.jpg?20210709094022",
+      "lastName": "ALFARO MAURICIO",
+      "firstName": "KEVIN JOHAN",
+      "dni": 74832079,
+      "type": "student"
+    },
+    {
+      "cod": 20200139,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200139.jpg?20230925041441",
+      "lastName": "ALVARADO ARROYO",
+      "firstName": "DIEGO AKIRA",
+      "dni": 75411021,
+      "type": "student"
+    },
+    {
+      "cod": 20200149,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200149.jpg?20210708104012",
+      "lastName": "ALVARADO FLORES",
+      "firstName": "SEBASTIAN PAULO",
+      "dni": 71693516,
+      "type": "student"
+    },
+    {
+      "cod": 20200047,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200047.jpg?20191001011606",
+      "lastName": "ALVAREZ HUARSAYA",
+      "firstName": "RICHARD SAUL",
+      "dni": 75154431,
+      "type": "student"
+    },
+    {
+      "cod": 20200236,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200236.jpg?20210623120752",
+      "lastName": "ALVAREZ MAMANI",
+      "firstName": "JAVIER ARTURO",
+      "dni": 43943115,
+      "type": "student"
+    },
+    {
+      "cod": 20200150,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200150.jpg?20210608114410",
+      "lastName": "AMBROSIO QUISPE",
+      "firstName": "JOSE ENRIQUE",
+      "dni": 75672644,
+      "type": "student"
+    },
+    {
+      "cod": 20200093,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200093.jpg?20191001022602",
+      "lastName": "AMPUERO DONAYRE",
+      "firstName": "GERMÁN ALEJANDRO",
+      "dni": 77505356,
+      "type": "student"
+    },
+    {
+      "cod": 20200084,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200084.jpg?20191002062900",
+      "lastName": "ANCHAHUA FLORES",
+      "firstName": "MARICIELO",
+      "dni": 72295382,
+      "type": "student"
+    },
+    {
+      "cod": 20200046,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200046.jpg?20191001032046",
+      "lastName": "ANGELES BOCANGEL",
+      "firstName": "MANUEL MOISES",
+      "dni": 72229453,
+      "type": "student"
+    },
+    {
+      "cod": 20200060,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200060.jpg?20191002064804",
+      "lastName": "ANICAMA ESPINOZA",
+      "firstName": "NICOLAS LEONARDO",
+      "dni": 73149135,
+      "type": "student"
+    },
+    {
+      "cod": 20200128,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200128.jpg?20210708103146",
+      "lastName": "ANTON GUERRERO",
+      "firstName": "EDWIN MARTIN",
+      "dni": 72730416,
+      "type": "student"
+    },
+    {
+      "cod": 20200129,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200129.jpg?20210607090942",
+      "lastName": "APAZA ALVA",
+      "firstName": "RODRIGO",
+      "dni": 73073640,
+      "type": "student"
+    },
+    {
+      "cod": 20207121,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207121.jpg?20220504120124",
+      "lastName": "APAZA AVILA",
+      "firstName": "RAQUEL ELISA",
+      "dni": 41569796,
+      "type": "student"
+    },
+    {
+      "cod": 20200151,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200151.jpg?20210608114450",
+      "lastName": "APAZA MAMANI",
+      "firstName": "DANNY WILSON",
+      "dni": 76192172,
+      "type": "student"
+    },
+    {
+      "cod": 20200244,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200244.jpg?20210708110312",
+      "lastName": "AQUINO CURISINCHE",
+      "firstName": "HAROLD JHONATAN",
+      "dni": 71227947,
+      "type": "student"
+    },
+    {
+      "cod": 20200059,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200059.jpg?20191001010928",
+      "lastName": "ARANIBAR APOLINARIO",
+      "firstName": "JOSE RICARDO",
+      "dni": 73263711,
+      "type": "student"
+    },
+    {
+      "cod": 20207165,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/403/0010020207165.jpg?20210723114026",
+      "lastName": "ARAOZ SOLIS",
+      "firstName": "EMEHELY MILAGROS",
+      "dni": 70447804,
+      "type": "student"
+    },
+    {
+      "cod": 20200245,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200245.jpg?20210608032532",
+      "lastName": "ARAUJO MALDONADO",
+      "firstName": "DAVID JOSE DANIEL",
+      "dni": 75549453,
+      "type": "student"
+    },
+    {
+      "cod": 20200152,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200152.jpg?20210608114602",
+      "lastName": "ARAUJO REGALADO",
+      "firstName": "ANDERSON BRAYAND",
+      "dni": 71427882,
+      "type": "student"
+    },
+    {
+      "cod": 20207117,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/501/0010020207117.jpg?20230620102358",
+      "lastName": "ARBOLEDA HUAMAN",
+      "firstName": "JULIO FERNANDO",
+      "dni": "07604237",
+      "type": "student"
+    },
+    {
+      "cod": 20207180,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gestión de la Información  y del Conocimiento",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "ARITOMI KANASHIRO",
+      "firstName": "PIER KIYOSHI",
+      "dni": "07490794",
+      "type": "student"
+    },
+    {
+      "cod": 20200006,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200006.jpg?20191001022452",
+      "lastName": "ARMAS BLAS",
+      "firstName": "EDUARDO ANDREE",
+      "dni": 72899162,
+      "type": "student"
+    },
+    {
+      "cod": 20200153,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200153.jpg?20210608114736",
+      "lastName": "ARRIETA PALACIOS",
+      "firstName": "ANDRES LEONARDO",
+      "dni": 71309327,
+      "type": "student"
+    },
+    {
+      "cod": 20200246,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200246.jpg?20210609082642",
+      "lastName": "ASCUE OROSCO",
+      "firstName": "CARLOS",
+      "dni": 76144435,
+      "type": "student"
+    },
+    {
+      "cod": 20200154,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200154.jpg?20210630112308",
+      "lastName": "AUCCAISE HUALLPA",
+      "firstName": "VICTOR ALBERTO",
+      "dni": 74898853,
+      "type": "student"
+    },
+    {
+      "cod": 20200247,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200247.jpg?20221103102131",
+      "lastName": "AZNARAN CABRERA",
+      "firstName": "GERSON EDUARDO",
+      "dni": 62643467,
+      "type": "student"
+    },
+    {
+      "cod": 20200069,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200069.jpg?20191001122536",
+      "lastName": "AZUCENA HUAMANTUMA",
+      "firstName": "JOSÉ ANTONIO",
+      "dni": 71488717,
+      "type": "student"
+    },
+    {
+      "cod": 20200051,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200051.jpg?20191001011134",
+      "lastName": "BACA CARRETERO",
+      "firstName": "LEONARDO DAVID",
+      "dni": 70985046,
+      "type": "student"
+    },
+    {
+      "cod": 20200248,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200248.jpg?20210609081034",
+      "lastName": "BALANDRA CAMACHO",
+      "firstName": "IVAN",
+      "dni": 71427961,
+      "type": "student"
+    },
+    {
+      "cod": 20200249,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200249.jpg?20220708022833",
+      "lastName": "BALAREZO RAMOS",
+      "firstName": "LUIS JESUS",
+      "dni": 74708777,
+      "type": "student"
+    },
+    {
+      "cod": 20200155,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200155.jpg?20210630112210",
+      "lastName": "BARBIERI CANALES",
+      "firstName": "MARCELO ALESSANDRO",
+      "dni": 73062374,
+      "type": "student"
+    },
+    {
+      "cod": 20200027,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200027.jpg?20230925045151",
+      "lastName": "BARDON CASAS",
+      "firstName": "DIANA FRANCESCA",
+      "dni": 75504754,
+      "type": "student"
+    },
+    {
+      "cod": 20200036,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200036.jpg?20191001033234",
+      "lastName": "BARRAL LARIOS",
+      "firstName": "LUIS ELIAS",
+      "dni": 73043395,
+      "type": "student"
+    },
+    {
+      "cod": 20200156,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200156.jpg?20210708104130",
+      "lastName": "BARRENECHEA BENITES",
+      "firstName": "BALYA AGNES",
+      "dni": 74829837,
+      "type": "student"
+    },
+    {
+      "cod": 20200040,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200040.jpg?20191002110604",
+      "lastName": "BARTOLOME ESPINOZA",
+      "firstName": "BEJAMIN",
+      "dni": 77316340,
+      "type": "student"
+    },
+    {
+      "cod": 20207159,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/403/0010020207159.jpg?20210723113758",
+      "lastName": "BEAS VELA",
+      "firstName": "MARTÍN MIGUEL",
+      "dni": "09934877",
+      "type": "student"
+    },
+    {
+      "cod": 20200157,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200157.jpg?20210623115842",
+      "lastName": "BECERRA CARRILLO",
+      "firstName": "JAIR STEFANO",
+      "dni": 72566390,
+      "type": "student"
+    },
+    {
+      "cod": 20200021,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200021.jpg?20191001030842",
+      "lastName": "BENITES LEIVA",
+      "firstName": "YORDY MARLON",
+      "dni": 76184863,
+      "type": "student"
+    },
+    {
+      "cod": 20200042,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200042.jpg?20191001023118",
+      "lastName": "BERROCAL ANCHANTE",
+      "firstName": "ALFREDO",
+      "dni": 72912431,
+      "type": "student"
+    },
+    {
+      "cod": 20200250,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200250.jpg?20210609081136",
+      "lastName": "BLAS MUÑOA",
+      "firstName": "JOAO LESTTER",
+      "dni": 74995304,
+      "type": "student"
+    },
+    {
+      "cod": 20200158,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200158.jpg?20210608115052",
+      "lastName": "BLAS VICENTE",
+      "firstName": "ALVARO MATIAS",
+      "dni": 71733733,
+      "type": "student"
+    },
+    {
+      "cod": 20200159,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200159.jpg?20210608115416",
+      "lastName": "BRAVO CHUQUILLANQUI",
+      "firstName": "JHAMIL RODRIGO",
+      "dni": 75247046,
+      "type": "student"
+    },
+    {
+      "cod": 20200123,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200123.jpg?20191001024532",
+      "lastName": "BRAVO TENORIO",
+      "firstName": "MICAELA ALESSANDRA",
+      "dni": 74699574,
+      "type": "student"
+    },
+    {
+      "cod": 20200160,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200160.jpg?20210623120046",
+      "lastName": "BUENDIA ALTAMIRANO",
+      "firstName": "CELINDA MARIA TERESA",
+      "dni": 76220773,
+      "type": "student"
+    },
+    {
+      "cod": 20200251,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200251.jpg?20210609081210",
+      "lastName": "BUSTAMANTE TORRES",
+      "firstName": "ANAIS MILAGROS",
+      "dni": 71205648,
+      "type": "student"
+    },
+    {
+      "cod": 20170034,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020170034.jpg?20221103102131",
+      "lastName": "BUSTAMANTE VALERA",
+      "firstName": "YOED ABEL",
+      "dni": 73983871,
+      "type": "student"
+    },
+    {
+      "cod": 20200161,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200161.jpg?20210608115510",
+      "lastName": "BUSTINZA QUIÑONES",
+      "firstName": "GUSTAVO ADOLFO",
+      "dni": 75895391,
+      "type": "student"
+    },
+    {
+      "cod": 20200130,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200130.jpg?20210708103348",
+      "lastName": "CALDERÓN BERMUDO",
+      "firstName": "PAULO CÉSAR",
+      "dni": 76016271,
+      "type": "student"
+    },
+    {
+      "cod": 20200039,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200039.jpg?20191001024432",
+      "lastName": "CALERO FALCON",
+      "firstName": "GONZALO MANUEL",
+      "dni": 75352134,
+      "type": "student"
+    },
+    {
+      "cod": 20200252,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200252.jpg?20210630111202",
+      "lastName": "CALIXTO GOÑE",
+      "firstName": "FABRIZIO ALONSO",
+      "dni": 71285133,
+      "type": "student"
+    },
+    {
+      "cod": 20200162,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200162.jpg?20230927061200",
+      "lastName": "CAMACHO FLORES",
+      "firstName": "ARNOLD SMITH",
+      "dni": 73254132,
+      "type": "student"
+    },
+    {
+      "cod": 20207130,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "CAMACHO SANDOVAL",
+      "firstName": "MARTIN EDUARDO",
+      "dni": "09853567",
+      "type": "student"
+    },
+    {
+      "cod": 20200253,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200253.jpg?20210609081232",
+      "lastName": "CAMACHO VEGA",
+      "firstName": "RENATO",
+      "dni": 76913406,
+      "type": "student"
+    },
+    {
+      "cod": 20200307,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200307.jpg?20210608031852",
+      "lastName": "CAMANA HUAPAYA",
+      "firstName": "ARIANA MARIA",
+      "dni": 75962574,
+      "type": "student"
+    },
+    {
+      "cod": 20200163,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200163.jpg?20210630112042",
+      "lastName": "CAMPOS ACOSTA",
+      "firstName": "MARX DALESXANDRO",
+      "dni": 75735213,
+      "type": "student"
+    },
+    {
+      "cod": 20200141,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200141.jpg?20191001022414",
+      "lastName": "CANO CARBAJO",
+      "firstName": "YEYSON SAMIR",
+      "dni": 71851591,
+      "type": "student"
+    },
+    {
+      "cod": 20207115,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/501/0010020207115.jpg?20211116080604",
+      "lastName": "CARDENAS GOYENA",
+      "firstName": "ROSARIO MILAGROS",
+      "dni": 40009788,
+      "type": "student"
+    },
+    {
+      "cod": 20200023,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200023.jpg?20210726044346",
+      "lastName": "CARDENAS RAMIREZ",
+      "firstName": "JEAN CARLO",
+      "dni": 71689980,
+      "type": "student"
+    },
+    {
+      "cod": 20200164,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200164.jpg?20210608115910",
+      "lastName": "CASAPERALTA PACHECO",
+      "firstName": "LUIS ALFONSO",
+      "dni": 75444224,
+      "type": "student"
+    },
+    {
+      "cod": 20200041,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200041.jpg?20191002120642",
+      "lastName": "CASIMIRO LOPEZ",
+      "firstName": "GABRIEL AARON",
+      "dni": 74848102,
+      "type": "student"
+    },
+    {
+      "cod": 20207144,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "CASO QUISPE",
+      "firstName": "WILLIAMS JESÚS",
+      "dni": 43443313,
+      "type": "student"
+    },
+    {
+      "cod": 20200240,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200240.jpg?20210608032106",
+      "lastName": "CASTILLO AGUILAR",
+      "firstName": "ANGELO ALDAIR",
+      "dni": 74650024,
+      "type": "student"
+    },
+    {
+      "cod": 20070172,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020070172.jpg?20221103102129",
+      "lastName": "CASTILLO BERNAL",
+      "firstName": "CARLOS ALBERTO",
+      "dni": 70932275,
+      "type": "student"
+    },
+    {
+      "cod": 20207073,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/403/0010020207073.jpg?20220708022833",
+      "lastName": "CASTILLO MASLUCAN",
+      "firstName": "OSCAR ENRIQUE",
+      "dni": 42167955,
+      "type": "student"
+    },
+    {
+      "cod": 20200058,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200058.jpg?20191001011338",
+      "lastName": "CASTRO SANTOS",
+      "firstName": "ROBERTO JUNIOR",
+      "dni": 71736480,
+      "type": "student"
+    },
+    {
+      "cod": 20200254,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200254.jpg?20210609081328",
+      "lastName": "CCANTO FLORES",
+      "firstName": "ROSMERI GLORIA",
+      "dni": 73994991,
+      "type": "student"
+    },
+    {
+      "cod": 20200256,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200256.jpg?20210623121312",
+      "lastName": "CESPEDES VIGURIA",
+      "firstName": "JHAMIR SEBASTIAN",
+      "dni": 71058315,
+      "type": "student"
+    },
+    {
+      "cod": 20200071,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200071.jpg?20191001021458",
+      "lastName": "CHAVEZ CAMPOS",
+      "firstName": "JEAN PIER",
+      "dni": 72288731,
+      "type": "student"
+    },
+    {
+      "cod": 20200165,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200165.jpg?20210608120130",
+      "lastName": "CHAVEZ TORRES",
+      "firstName": "DIEGO ALONSO",
+      "dni": 71698341,
+      "type": "student"
+    },
+    {
+      "cod": 20200067,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200067.jpg?20191001024726",
+      "lastName": "CHIARA ARCOS",
+      "firstName": "BRYAN MIGUEL",
+      "dni": 72430922,
+      "type": "student"
+    },
+    {
+      "cod": 20200166,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200166.jpg?20210708104228",
+      "lastName": "CHINCHAY EPIQUIN",
+      "firstName": "RODRIGO FRANCISCO",
+      "dni": 74946465,
+      "type": "student"
+    },
+    {
+      "cod": 20200110,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200110.jpg?20191001011624",
+      "lastName": "CHUMPITAZ RODRIGUEZ",
+      "firstName": "RENZO FERNANDO",
+      "dni": 73311774,
+      "type": "student"
+    },
+    {
+      "cod": 20200099,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200099.jpg?20231002122537",
+      "lastName": "CHÁVEZ DOMÍNGUEZ",
+      "firstName": "JOSSEPH DEL PIERO",
+      "dni": 71599211,
+      "type": "student"
+    },
+    {
+      "cod": 20207141,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207141.jpg?20220618034716",
+      "lastName": "COJAL MEDINA",
+      "firstName": "WALTER SANTIAGO",
+      "dni": 46980677,
+      "type": "student"
+    },
+    {
+      "cod": 20200054,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200054.jpg?20191002115720",
+      "lastName": "COLUNCHE VIDARTE",
+      "firstName": "MIGUEL ANDRES",
+      "dni": 75447434,
+      "type": "student"
+    },
+    {
+      "cod": 20200079,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200079.jpg?20191001011634",
+      "lastName": "COMENA UGAZ",
+      "firstName": "CHRISTIAN SEBASTIÁN",
+      "dni": 70993943,
+      "type": "student"
+    },
+    {
+      "cod": 20200106,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200106.jpg?20191002011742",
+      "lastName": "CONDORI PACHECO",
+      "firstName": "BERNY RONALD",
+      "dni": 79463128,
+      "type": "student"
+    },
+    {
+      "cod": 20207143,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "CONDORI QUISPE",
+      "firstName": "WILLIAM",
+      "dni": 76285806,
+      "type": "student"
+    },
+    {
+      "cod": 20200077,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200077.jpg?20191002122504",
+      "lastName": "CORDOVA SILVA",
+      "firstName": "GIUSEPPE JEFFERSON",
+      "dni": 75888751,
+      "type": "student"
+    },
+    {
+      "cod": 20200131,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200131.jpg?20230928103906",
+      "lastName": "CORONADO CORTEZ",
+      "firstName": "JEFERSON",
+      "dni": 75625704,
+      "type": "student"
+    },
+    {
+      "cod": 20200070,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200070.jpg?20230925041441",
+      "lastName": "CORREA DE LA CRUZ",
+      "firstName": "YSAAC NOE",
+      "dni": 76614479,
+      "type": "student"
+    },
+    {
+      "cod": 20200167,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200167.jpg?20210609082742",
+      "lastName": "COTRINA QUIROZ",
+      "firstName": "LUZ NATALIA",
+      "dni": 70162056,
+      "type": "student"
+    },
+    {
+      "cod": 20200019,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200019.jpg?20191001034744",
+      "lastName": "CRUCES CORNEJO",
+      "firstName": "DIEGO MAURICIO",
+      "dni": 75571217,
+      "type": "student"
+    },
+    {
+      "cod": 20200102,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200102.jpg?20230928041814",
+      "lastName": "CRUCES SALHUANA",
+      "firstName": "DIEGO AXEL",
+      "dni": 76335894,
+      "type": "student"
+    },
+    {
+      "cod": 20200257,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200257.jpg?20230522043524",
+      "lastName": "CRUZ BRAVO",
+      "firstName": "MAYCOL AUGUSTO",
+      "dni": 77037943,
+      "type": "student"
+    },
+    {
+      "cod": 20200168,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200168.jpg?20210608120632",
+      "lastName": "CRUZ CORDOVA",
+      "firstName": "JEFERSON ALEXANDER",
+      "dni": 73008185,
+      "type": "student"
+    },
+    {
+      "cod": 20200169,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200169.jpg?20210623120154",
+      "lastName": "CUADROS AIRA",
+      "firstName": "VIVIAN ARIANA",
+      "dni": 74042501,
+      "type": "student"
+    },
+    {
+      "cod": 20200170,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200170.jpg?20230522043522",
+      "lastName": "CUBAS HUARANGA",
+      "firstName": "JULIO SANTIAGO",
+      "dni": 77093256,
+      "type": "student"
+    },
+    {
+      "cod": 20200171,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200171.jpg?20210608120722",
+      "lastName": "CUENTAS SANTARIA",
+      "firstName": "GUILLERMO",
+      "dni": 74027241,
+      "type": "student"
+    },
+    {
+      "cod": 20200258,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200258.jpg?20210607090620",
+      "lastName": "CUMPA PAREJA",
+      "firstName": "SANTIAGO JESÚS",
+      "dni": 70874246,
+      "type": "student"
+    },
+    {
+      "cod": 20207154,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207154.jpg?20210723113722",
+      "lastName": "DÁVILA OLIVOS",
+      "firstName": "MAYRA ALEJANDRA",
+      "dni": 71849842,
+      "type": "student"
+    },
+    {
+      "cod": 20200259,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200259.jpg?20210623121542",
+      "lastName": "DÍAZ PILLACA",
+      "firstName": "SEBASTIÁN ALEXIS",
+      "dni": 71940533,
+      "type": "student"
+    },
+    {
+      "cod": 20200017,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200017.jpg?20191001023912",
+      "lastName": "EDUARDO ESPINOZA",
+      "firstName": "VITTORIO MARCELO",
+      "dni": 70471363,
+      "type": "student"
+    },
+    {
+      "cod": 20200126,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200126.jpg?20191001024030",
+      "lastName": "ESPEJO BERROCAL",
+      "firstName": "MAX BRYAN",
+      "dni": 75111274,
+      "type": "student"
+    },
+    {
+      "cod": 20200011,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200011.jpg?20231002122531",
+      "lastName": "ESPINOZA CASAFRANCA",
+      "firstName": "LUIS LEONARDO",
+      "dni": 75004564,
+      "type": "student"
+    },
+    {
+      "cod": 20200174,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200174.jpg?20240603122739",
+      "lastName": "ESTELA PAUCAR",
+      "firstName": "ELVIS MAX",
+      "dni": 75852291,
+      "type": "student"
+    },
+    {
+      "cod": 20200075,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200075.jpg?20191001015308",
+      "lastName": "ESTRADA ESTRADA",
+      "firstName": "ROSA MERCEDES",
+      "dni": 71228791,
+      "type": "student"
+    },
+    {
+      "cod": 20200138,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200138.jpg?20191002112446",
+      "lastName": "FELIX HUAYHUA",
+      "firstName": "AXEL PATRICK JULIAN",
+      "dni": 75126608,
+      "type": "student"
+    },
+    {
+      "cod": 20200175,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200175.jpg?20210608121040",
+      "lastName": "FERNÁNDEZ ALTAMIRANO",
+      "firstName": "EDGARDO JOAQUÍN",
+      "dni": 76299224,
+      "type": "student"
+    },
+    {
+      "cod": 20200261,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200261.jpg?20210609081456",
+      "lastName": "FIGUEROA GARAY",
+      "firstName": "JHOAN JOSEPH",
+      "dni": 72006328,
+      "type": "student"
+    },
+    {
+      "cod": 20200112,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200112.jpg?20210719010951",
+      "lastName": "FLORES ROMAN",
+      "firstName": "JESUS FELICIANO",
+      "dni": 74994851,
+      "type": "student"
+    },
+    {
+      "cod": 20200176,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200176.jpg?20230328091545",
+      "lastName": "GALVEZ MOLERO",
+      "firstName": "JHADE ESTHER",
+      "dni": 76230547,
+      "type": "student"
+    },
+    {
+      "cod": 20200125,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200125.jpg?20231103041051",
+      "lastName": "GARAY PASTRANA",
+      "firstName": "JEANPIER MIGUEL",
+      "dni": 70622090,
+      "type": "student"
+    },
+    {
+      "cod": 20207161,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/403/0010020207161.jpg?20210723113952",
+      "lastName": "GOMERO MONTALVÁN",
+      "firstName": "JOSÉ CARLOS",
+      "dni": 45694496,
+      "type": "student"
+    },
+    {
+      "cod": 20207133,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207133.jpg?20210723070054",
+      "lastName": "GOMEZ RUPAY",
+      "firstName": "PIERA STEPHANY",
+      "dni": 46411215,
+      "type": "student"
+    },
+    {
+      "cod": 20200066,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200066.jpg?20230926050805",
+      "lastName": "GONZA SOTO",
+      "firstName": "RAQUEL STACY",
+      "dni": 71835269,
+      "type": "student"
+    },
+    {
+      "cod": 20200113,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200113.jpg?20210708102838",
+      "lastName": "GONZALES CAMARENA",
+      "firstName": "DYLAN BRUNO",
+      "dni": 70826729,
+      "type": "student"
+    },
+    {
+      "cod": 20200068,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200068.jpg?20191002110928",
+      "lastName": "GONZALES MALLMA",
+      "firstName": "ERICK ANDERSON",
+      "dni": 75318484,
+      "type": "student"
+    },
+    {
+      "cod": 20200062,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200062.jpg?20230925041440",
+      "lastName": "GUEVARA SÁNCHEZ",
+      "firstName": "SANDRO RAMIRO",
+      "dni": 70343013,
+      "type": "student"
+    },
+    {
+      "cod": 20200028,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200028.jpg?20191002084142",
+      "lastName": "GUILLEN PIÑA",
+      "firstName": "RITCY CHRISTINA",
+      "dni": 71957159,
+      "type": "student"
+    },
+    {
+      "cod": 20200177,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200177.jpg?20210608121218",
+      "lastName": "GUIZADO TORRES",
+      "firstName": "ALEXANDRA GERALDINE",
+      "dni": 76819599,
+      "type": "student"
+    },
+    {
+      "cod": 20200105,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200105.jpg?20191002063140",
+      "lastName": "GUTIERREZ AQUINO",
+      "firstName": "LUCERO ANDREA",
+      "dni": 72225405,
+      "type": "student"
+    },
+    {
+      "cod": 20207065,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gestión de la Información  y del Conocimiento",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/402/0010020207065.jpg?20221114114720",
+      "lastName": "GUTIERREZ TIPULA",
+      "firstName": "MARICRUZ VERÓNICA",
+      "dni": 70433018,
+      "type": "student"
+    },
+    {
+      "cod": 20200178,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200178.jpg?20210615080812",
+      "lastName": "HENOSTROZA SANCHEZ",
+      "firstName": "SAUBY STEFANY",
+      "dni": 72547954,
+      "type": "student"
+    },
+    {
+      "cod": 20200309,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200309.jpg?20210608034736",
+      "lastName": "HERNÁNDEZ BIANCHI",
+      "firstName": "STEFANO ALESSANDRO",
+      "dni": 72026009,
+      "type": "student"
+    },
+    {
+      "cod": 20200263,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "HERRERA FERNANDEZ",
+      "firstName": "YUMERTH MIJAIL",
+      "dni": 74492990,
+      "type": "student"
+    },
+    {
+      "cod": 20200044,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200044.jpg?20191002115036",
+      "lastName": "HUAMAN FLORES",
+      "firstName": "YAN FRANCO",
+      "dni": 75234255,
+      "type": "student"
+    },
+    {
+      "cod": 20200179,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200179.jpg?20230328091718",
+      "lastName": "HUAMAN RAMIREZ",
+      "firstName": "ANA CRISTINA",
+      "dni": 75688272,
+      "type": "student"
+    },
+    {
+      "cod": 20200092,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200092.jpg?20230928041814",
+      "lastName": "HUAMAN REYNA",
+      "firstName": "JEAN PAUL",
+      "dni": 71776463,
+      "type": "student"
+    },
+    {
+      "cod": 20200264,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200264.jpg?20210706020306",
+      "lastName": "HUAMAN URIARTE",
+      "firstName": "CESAR ALBERTO",
+      "dni": 76215418,
+      "type": "student"
+    },
+    {
+      "cod": 20207173,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/403/0010020207173.jpg?20210723114224",
+      "lastName": "HUAMANCHAHUA DE LA CRUZ",
+      "firstName": "DIEGO RODRIGO",
+      "dni": 47352559,
+      "type": "student"
+    },
+    {
+      "cod": 20207120,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "HUAMANÑAHUI CHIPA",
+      "firstName": "IRMA",
+      "dni": 45567340,
+      "type": "student"
+    },
+    {
+      "cod": 20200073,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200073.jpg?20191001125142",
+      "lastName": "HUANCAS SÁNCHEZ",
+      "firstName": "EDGAR FERNANDO",
+      "dni": 72185792,
+      "type": "student"
+    },
+    {
+      "cod": 20200266,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200266.jpg?20210607084756",
+      "lastName": "HUARHUA PIÑAS",
+      "firstName": "EDSON SEBASTIAN",
+      "dni": 70345002,
+      "type": "student"
+    },
+    {
+      "cod": 20200267,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200267.jpg?20210708110408",
+      "lastName": "HUARHUACHI RAMOS",
+      "firstName": "GARYN FERNANDO",
+      "dni": 75354471,
+      "type": "student"
+    },
+    {
+      "cod": 20200268,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200268.jpg?20210609081520",
+      "lastName": "HUARIPATA HUACCHA",
+      "firstName": "HECTOR RODRIGO MANUEL",
+      "dni": 76352599,
+      "type": "student"
+    },
+    {
+      "cod": 20200181,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200181.jpg?20210720020015",
+      "lastName": "HUAROTO HUAROTO",
+      "firstName": "KATHERINE ANTHUANETTE",
+      "dni": 74082609,
+      "type": "student"
+    },
+    {
+      "cod": 20200227,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200227.jpg?20210708110118",
+      "lastName": "HUAYAMARES DE LA CRUZ",
+      "firstName": "JESSICA MILAGROS",
+      "dni": 73114696,
+      "type": "student"
+    },
+    {
+      "cod": 20200228,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200228.jpg?20210608030934",
+      "lastName": "HUAYANAY PALMA",
+      "firstName": "CÉSAR AUGUSTO",
+      "dni": 63104722,
+      "type": "student"
+    },
+    {
+      "cod": 20200132,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200132.jpg?20210708103836",
+      "lastName": "HUERTA VILLALTA",
+      "firstName": "JASMIN AMPARO",
+      "dni": 73748059,
+      "type": "student"
+    },
+    {
+      "cod": 20200269,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200269.jpg?20210623121706",
+      "lastName": "HURTADO SALDAÑA",
+      "firstName": "JESÚS DANIEL",
+      "dni": 72139108,
+      "type": "student"
+    },
+    {
+      "cod": 20200135,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200135.jpg?20191001030140",
+      "lastName": "HURTADO SANTOS",
+      "firstName": "ESTIVEN SALVADOR",
+      "dni": 72257354,
+      "type": "student"
+    },
+    {
+      "cod": 20200182,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200182.jpg?20210608121242",
+      "lastName": "IDROGO BECERRA",
+      "firstName": "DANTE ALEXIS",
+      "dni": 75284679,
+      "type": "student"
+    },
+    {
+      "cod": 20207116,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "INGA LOPEZ",
+      "firstName": "WILDER ALEX",
+      "dni": 20037777,
+      "type": "student"
+    },
+    {
+      "cod": 20200043,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200043.jpg?20191001012154",
+      "lastName": "JARA NUÑEZ",
+      "firstName": "JOSE IGNACIO",
+      "dni": 72145601,
+      "type": "student"
+    },
+    {
+      "cod": 20200030,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200030.jpg?20191002123628",
+      "lastName": "JAUREGUI DIAZ",
+      "firstName": "YAJAHIRA YSABEL",
+      "dni": 72154499,
+      "type": "student"
+    },
+    {
+      "cod": 20207142,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "JULCA MEJÍA",
+      "firstName": "WILSON",
+      "dni": 46158306,
+      "type": "student"
+    },
+    {
+      "cod": 20207043,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207043.jpg?20220708022833",
+      "lastName": "JURO BARRIOS",
+      "firstName": "JULIA",
+      "dni": 45130771,
+      "type": "student"
+    },
+    {
+      "cod": 20200183,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "LA ROSA HUAPAYA",
+      "firstName": "MIGUEL ESTEFANO",
+      "dni": 73113338,
+      "type": "student"
+    },
+    {
+      "cod": 20200143,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200143.jpg?20191001011708",
+      "lastName": "LAOS CARRASCO",
+      "firstName": "RAFAEL ALONSO",
+      "dni": 72739042,
+      "type": "student"
+    },
+    {
+      "cod": 20207171,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "LARA BALTAZAR",
+      "firstName": "GRIGORI",
+      "dni": 71844228,
+      "type": "student"
+    },
+    {
+      "cod": 20200029,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200029.jpg?20191001025116",
+      "lastName": "LEANDRO VASQUEZ",
+      "firstName": "FREDDY RODRIGO",
+      "dni": 72550232,
+      "type": "student"
+    },
+    {
+      "cod": 20200184,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200184.jpg?20210608121414",
+      "lastName": "LEON HUINCHO",
+      "firstName": "ALDAIR ANTHONY",
+      "dni": 74311849,
+      "type": "student"
+    },
+    {
+      "cod": 20200270,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200270.jpg?20210630111052",
+      "lastName": "LEON NORES",
+      "firstName": "JOSHUA MIGUEL",
+      "dni": 72180819,
+      "type": "student"
+    },
+    {
+      "cod": 20207014,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207014.jpg?20211116080604",
+      "lastName": "LEON VILCA",
+      "firstName": "EDWIN",
+      "dni": 42545882,
+      "type": "student"
+    },
+    {
+      "cod": 20207175,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "LEON VINO",
+      "firstName": "YUDY ISABEL",
+      "dni": 40256346,
+      "type": "student"
+    },
+    {
+      "cod": 20200271,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200271.jpg?20210609081540",
+      "lastName": "LEQUELEQUE CONDORI",
+      "firstName": "OMAR JHONATAN",
+      "dni": 74025830,
+      "type": "student"
+    },
+    {
+      "cod": 20200091,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200091.jpg?20210726044600",
+      "lastName": "LLACTAHUAMAN MUGUERZA",
+      "firstName": "ANTHONY JOEL",
+      "dni": 72694875,
+      "type": "student"
+    },
+    {
+      "cod": 20200185,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "LLAMCCAYA HUANCA",
+      "firstName": "ALONSO",
+      "dni": 72180204,
+      "type": "student"
+    },
+    {
+      "cod": 20200089,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200089.jpg?20191001030550",
+      "lastName": "LOPE ESPEJO",
+      "firstName": "GIANMARCO JAVIER",
+      "dni": 72934447,
+      "type": "student"
+    },
+    {
+      "cod": 20207080,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "LOPEZ DOLORES",
+      "firstName": "ARTURO JHONY",
+      "dni": 41839713,
+      "type": "student"
+    },
+    {
+      "cod": 20207015,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207015.jpg?20211116080604",
+      "lastName": "LOPEZ LOPEZ",
+      "firstName": "CARLOS",
+      "dni": 43486222,
+      "type": "student"
+    },
+    {
+      "cod": 20200020,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200020.jpg?20231002122532",
+      "lastName": "LOPEZ TERRONES",
+      "firstName": "XIOMY XIMENA",
+      "dni": 70585659,
+      "type": "student"
+    },
+    {
+      "cod": 20200237,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200237.jpg?20210720020017",
+      "lastName": "LÓPEZ VARGAS",
+      "firstName": "JHONNY WILLIAM",
+      "dni": 41403894,
+      "type": "student"
+    },
+    {
+      "cod": 20200100,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200100.jpg?20191001011844",
+      "lastName": "MACHACA MOSCAIRA",
+      "firstName": "KEVIN JESUS",
+      "dni": 70997360,
+      "type": "student"
+    },
+    {
+      "cod": 20200186,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200186.jpg?20221004112539",
+      "lastName": "MACHADO PALMA",
+      "firstName": "CHRISTIAN ESTEBAN",
+      "dni": 72302684,
+      "type": "student"
+    },
+    {
+      "cod": 20200081,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200081.jpg?20191001024740",
+      "lastName": "MACHARE RAMIREZ",
+      "firstName": "JEREMY SMITH",
+      "dni": 74893261,
+      "type": "student"
+    },
+    {
+      "cod": 20200137,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200137.jpg?20191001010126",
+      "lastName": "MAGALLANES AGÜERO",
+      "firstName": "JEFF ONEIL",
+      "dni": 70903046,
+      "type": "student"
+    },
+    {
+      "cod": 20200050,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200050.jpg?20191001020456",
+      "lastName": "MAGUIÑA CALVO",
+      "firstName": "MIGUEL RONALDIHNO",
+      "dni": 71296503,
+      "type": "student"
+    },
+    {
+      "cod": 20200061,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200061.jpg?20191001034014",
+      "lastName": "MANRIQUE CONDOR",
+      "firstName": "JORGE ALEJANDRO",
+      "dni": 73061160,
+      "type": "student"
+    },
+    {
+      "cod": 20200018,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200018.jpg?20191001023412",
+      "lastName": "MANRIQUE PEREZ",
+      "firstName": "RENZO JHEUS",
+      "dni": 70135590,
+      "type": "student"
+    },
+    {
+      "cod": 20200187,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200187.jpg?20210708104546",
+      "lastName": "MANTILLA AGUIRRE",
+      "firstName": "SHAMYHR ANGEL",
+      "dni": 77282892,
+      "type": "student"
+    },
+    {
+      "cod": 20200310,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200310.jpg?20210608022110",
+      "lastName": "MARCELO SALINAS",
+      "firstName": "MOISES ENRIQUE",
+      "dni": 74834884,
+      "type": "student"
+    },
+    {
+      "cod": 20200009,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200009.jpg?20231002122530",
+      "lastName": "MARCOS BERNARDO",
+      "firstName": "ELIAS DANIEL",
+      "dni": 73794258,
+      "type": "student"
+    },
+    {
+      "cod": 20200098,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200098.jpg?20191002113256",
+      "lastName": "MARTINEZ OCHOA",
+      "firstName": "SANTOS EDUARDO",
+      "dni": 76853130,
+      "type": "student"
+    },
+    {
+      "cod": 20200094,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200094.jpg?20191002104440",
+      "lastName": "MARTINEZ PORTA",
+      "firstName": "JHOAN ALEXIS",
+      "dni": 76471718,
+      "type": "student"
+    },
+    {
+      "cod": 20200034,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200034.jpg?20191002010444",
+      "lastName": "MARTINEZ SANTOS",
+      "firstName": "LUZ CRISTINA",
+      "dni": 75401632,
+      "type": "student"
+    },
+    {
+      "cod": 20200188,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200188.jpg?20210607091350",
+      "lastName": "MARTINEZ SULLCA",
+      "firstName": "ESTEBAN ANTONIO",
+      "dni": 70886356,
+      "type": "student"
+    },
+    {
+      "cod": 20200015,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200015.jpg?20191001031658",
+      "lastName": "MARTINEZ VICENTE",
+      "firstName": "ANGEL ESTEBAN",
+      "dni": 72979501,
+      "type": "student"
+    },
+    {
+      "cod": 20200048,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200048.jpg?20191002015136",
+      "lastName": "MAURICIO MONTES",
+      "firstName": "JORGE LUIS",
+      "dni": 76379757,
+      "type": "student"
+    },
+    {
+      "cod": 20207178,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gestión de la Información  y del Conocimiento",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "MAYORGA GONZALEZ",
+      "firstName": "ENRIQUE MIGUEL",
+      "dni": 40786769,
+      "type": "student"
+    },
+    {
+      "cod": 20200007,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200007.jpg?20231002122529",
+      "lastName": "MAYTA CHIPANA",
+      "firstName": "LUIS ANGEL",
+      "dni": 72196650,
+      "type": "student"
+    },
+    {
+      "cod": 20207113,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/501/0010020207113.jpg?20220618034654",
+      "lastName": "MEDINA FLORES",
+      "firstName": "JIMMY ROBERTO",
+      "dni": 20108795,
+      "type": "student"
+    },
+    {
+      "cod": 20200144,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200144.jpg?20191001024302",
+      "lastName": "MEDINA GARAY",
+      "firstName": "RODRIGO MATIAS",
+      "dni": 72387477,
+      "type": "student"
+    },
+    {
+      "cod": 20200273,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200273.jpg?20230522043526",
+      "lastName": "MEDINA MONTOYA",
+      "firstName": "JHORDAN BRAYAN",
+      "dni": 76786103,
+      "type": "student"
+    },
+    {
+      "cod": 20200133,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200133.jpg?20210623101416",
+      "lastName": "MEJIA CAICEDO",
+      "firstName": "CARLOS ANTONIO",
+      "dni": 74049910,
+      "type": "student"
+    },
+    {
+      "cod": 20200189,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200189.jpg?20210608121542",
+      "lastName": "MEJÍA REYES",
+      "firstName": "CARLOS EDWIN",
+      "dni": 75876556,
+      "type": "student"
+    },
+    {
+      "cod": 20200190,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200190.jpg?20210615080924",
+      "lastName": "MENDEZ FERNANDEZ",
+      "firstName": "LUIS DARIO",
+      "dni": 75699925,
+      "type": "student"
+    },
+    {
+      "cod": 20200142,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200142.jpg?20191001014014",
+      "lastName": "MENDOZA MATA",
+      "firstName": "DIEGO ROMMEL",
+      "dni": 72468128,
+      "type": "student"
+    },
+    {
+      "cod": 20200191,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200191.jpg?20210608023614",
+      "lastName": "MENDOZA PORRAS",
+      "firstName": "KENNETH JAVIER",
+      "dni": 72754099,
+      "type": "student"
+    },
+    {
+      "cod": 20200274,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200274.jpg?20230927123600",
+      "lastName": "MEZA RAMON",
+      "firstName": "MARCO ALFREDO RUBEN",
+      "dni": 71951516,
+      "type": "student"
+    },
+    {
+      "cod": 20200192,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200192.jpg?20211111094725",
+      "lastName": "MINAYA ROJAS",
+      "firstName": "VALERIA LUZMILA",
+      "dni": 74718687,
+      "type": "student"
+    },
+    {
+      "cod": 20200076,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200076.jpg?20231002122535",
+      "lastName": "MINETTO MORI",
+      "firstName": "ANDERSON CARLOS",
+      "dni": 75945672,
+      "type": "student"
+    },
+    {
+      "cod": 20200275,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200275.jpg?20210623121852",
+      "lastName": "MITAC SAAVEDRA",
+      "firstName": "MILENA DIANA",
+      "dni": 61455128,
+      "type": "student"
+    },
+    {
+      "cod": 20200005,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200005.jpg?20231115033142",
+      "lastName": "MODESTO VASQUEZ",
+      "firstName": "JEAN STEVEN",
+      "dni": 70378621,
+      "type": "student"
+    },
+    {
+      "cod": 20200082,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200082.jpg?20191001024700",
+      "lastName": "MONDRAGÓN ZÚÑIGA",
+      "firstName": "RUBÉN ALBERTO",
+      "dni": 72355130,
+      "type": "student"
+    },
+    {
+      "cod": 20200238,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200238.jpg?20210630111340",
+      "lastName": "MONTENEGRO VALENCIA",
+      "firstName": "JYOSELÍN CECIBEL",
+      "dni": 47620782,
+      "type": "student"
+    },
+    {
+      "cod": 20200311,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200311.jpg?20210630110918",
+      "lastName": "MONTES PEREZ",
+      "firstName": "JOSUE JUSTI",
+      "dni": 72329543,
+      "type": "student"
+    },
+    {
+      "cod": 20207146,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207146.jpg?20210723113644",
+      "lastName": "MONTESINOS BERROCAL",
+      "firstName": "PEDRO GUSTAVO",
+      "dni": 46038446,
+      "type": "student"
+    },
+    {
+      "cod": 20200276,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200276.jpg?20210607090716",
+      "lastName": "MOORE SALAZAR",
+      "firstName": "JHON ANTONY",
+      "dni": 72391431,
+      "type": "student"
+    },
+    {
+      "cod": 20200136,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200136.jpg?20191001033152",
+      "lastName": "MORALES ROBLADILLO",
+      "firstName": "NICOLE MARIA",
+      "dni": 72127052,
+      "type": "student"
+    },
+    {
+      "cod": 20200193,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200193.jpg?20210630111938",
+      "lastName": "MORENO ALCA",
+      "firstName": "ALEJANDRO",
+      "dni": 70265464,
+      "type": "student"
+    },
+    {
+      "cod": 20200277,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200277.jpg?20210609081612",
+      "lastName": "MORENO ZEVALLOS",
+      "firstName": "EVA LUCÍA",
+      "dni": 72780068,
+      "type": "student"
+    },
+    {
+      "cod": 20200063,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200063.jpg?20191001125042",
+      "lastName": "MORILLO ACUÑA",
+      "firstName": "DAVID FRANCISCO",
+      "dni": 72329933,
+      "type": "student"
+    },
+    {
+      "cod": 20200016,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200016.jpg?20191001020404",
+      "lastName": "MURILLO QUISPE",
+      "firstName": "PEDRO ALESSANDRO",
+      "dni": 73603939,
+      "type": "student"
+    },
+    {
+      "cod": 20207184,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gestión de la Información  y del Conocimiento",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/402/0010020207184.jpg?20220504120846",
+      "lastName": "NEIRA SACASQUI",
+      "firstName": "FLORANGEL",
+      "dni": "02448145",
+      "type": "student"
+    },
+    {
+      "cod": 20200229,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200229.jpg?20210608031018",
+      "lastName": "NOA ROMERO",
+      "firstName": "LUIS DIEGO",
+      "dni": 72355032,
+      "type": "student"
+    },
+    {
+      "cod": 20200127,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200127.jpg?20191002114634",
+      "lastName": "OCHOA FLORES",
+      "firstName": "VICTOR ALFONSO",
+      "dni": 74816796,
+      "type": "student"
+    },
+    {
+      "cod": 20200052,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200052.jpg?20220714024010",
+      "lastName": "OLAECHEA SAAVEDRA",
+      "firstName": "LEONARDO CASHIEL",
+      "dni": 71229931,
+      "type": "student"
+    },
+    {
+      "cod": 20207135,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "ONCEBAY LOPEZ",
+      "firstName": "JULIO JESUS",
+      "dni": 41843904,
+      "type": "student"
+    },
+    {
+      "cod": 20200074,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200074.jpg?20191001010620",
+      "lastName": "ORMEÑO VASQUEZ",
+      "firstName": "LEONARDO FRANCO",
+      "dni": 72632408,
+      "type": "student"
+    },
+    {
+      "cod": 20200230,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200230.jpg?20230522072921",
+      "lastName": "ORTIZ ABANTO",
+      "firstName": "KEVIN MIGUEL",
+      "dni": 72141765,
+      "type": "student"
+    },
+    {
+      "cod": 20200278,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200278.jpg?20210630113952",
+      "lastName": "ORTIZ QUISPE",
+      "firstName": "AKCEL EDUARDO",
+      "dni": 75441935,
+      "type": "student"
+    },
+    {
+      "cod": 20200056,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200056.jpg?20191001024930",
+      "lastName": "ORTIZ URBAI",
+      "firstName": "SEBASTIAN",
+      "dni": 74925387,
+      "type": "student"
+    },
+    {
+      "cod": 20207155,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207155.jpg?20220618034742",
+      "lastName": "ORÉ GUTIÉRREZ",
+      "firstName": "HENRY",
+      "dni": 70209260,
+      "type": "student"
+    },
+    {
+      "cod": 20200231,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200231.jpg?20210608031100",
+      "lastName": "PACHAS LOPEZ",
+      "firstName": "NABIA JASMIN",
+      "dni": 72606359,
+      "type": "student"
+    },
+    {
+      "cod": 20200025,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200025.jpg?20191001011640",
+      "lastName": "PAGUADA TAVARES",
+      "firstName": "PIERO ALEXANDER",
+      "dni": 72501636,
+      "type": "student"
+    },
+    {
+      "cod": 20207149,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "PAICO JAIME",
+      "firstName": "JULIO CESAR",
+      "dni": 25858497,
+      "type": "student"
+    },
+    {
+      "cod": 20200057,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200057.jpg?20191002062120",
+      "lastName": "PAIRAZAMAN ARIAS",
+      "firstName": "OSCAR EDUARDO",
+      "dni": 73073590,
+      "type": "student"
+    },
+    {
+      "cod": 20200194,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200194.jpg?20210708104632",
+      "lastName": "PALACIOS VILLEGAS",
+      "firstName": "FABIO JOSUE",
+      "dni": 73008820,
+      "type": "student"
+    },
+    {
+      "cod": 20207167,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "PALOMINO MENDOZA",
+      "firstName": "PEDRO GUILLERMO",
+      "dni": 40634345,
+      "type": "student"
+    },
+    {
+      "cod": 20200195,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200195.jpg?20210709093957",
+      "lastName": "PAREDES RAMOS",
+      "firstName": "CAROLAYN DAYANNA",
+      "dni": 76787977,
+      "type": "student"
+    },
+    {
+      "cod": 20200080,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200080.jpg?20191002121348",
+      "lastName": "PAZ ANCHAYHUA",
+      "firstName": "GERARDO RUBEN",
+      "dni": 75921540,
+      "type": "student"
+    },
+    {
+      "cod": 20200279,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "PEREZ BAZAN",
+      "firstName": "EYSEN CHRISTOPHER",
+      "dni": 42223951,
+      "type": "student"
+    },
+    {
+      "cod": 20207172,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "PEREZ GIL",
+      "firstName": "JUAN CARLOS",
+      "dni": 71583403,
+      "type": "student"
+    },
+    {
+      "cod": 20200197,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200197.jpg?20210615081556",
+      "lastName": "PEREZ OLAGUIVEL",
+      "firstName": "ROLANDO GERMAN",
+      "dni": 71210181,
+      "type": "student"
+    },
+    {
+      "cod": 20200012,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200012.jpg?20191002115256",
+      "lastName": "PEREZ SANTIAGO",
+      "firstName": "ALBERT WILLIAMS",
+      "dni": 74829848,
+      "type": "student"
+    },
+    {
+      "cod": 20207168,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "PEREZ VILLANUEVA",
+      "firstName": "GUSTAVO FELIPE",
+      "dni": "07266079",
+      "type": "student"
+    },
+    {
+      "cod": 20200196,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "PEÑA PALACIOS",
+      "firstName": "FRANC",
+      "dni": 75010047,
+      "type": "student"
+    },
+    {
+      "cod": 20207127,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "PORTOCARRERO BURGOS",
+      "firstName": "ABSALON",
+      "dni": 43590599,
+      "type": "student"
+    },
+    {
+      "cod": 20200198,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200198.jpg?20210630111740",
+      "lastName": "PORTUGAL DE LA CRUZ",
+      "firstName": "MARKO JOEL",
+      "dni": 74350429,
+      "type": "student"
+    },
+    {
+      "cod": 20200115,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200115.jpg?20210715104909",
+      "lastName": "PUMA QUISPE",
+      "firstName": "FRANK",
+      "dni": 77226659,
+      "type": "student"
+    },
+    {
+      "cod": 20200232,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200232.jpg?20210608031244",
+      "lastName": "PÉREZ SOTACURO",
+      "firstName": "ESTHEFANIE GERARDA",
+      "dni": 72478793,
+      "type": "student"
+    },
+    {
+      "cod": 20200200,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200200.jpg?20210623120306",
+      "lastName": "QUIJAITE ANDIA",
+      "firstName": "LEONEL",
+      "dni": 77355045,
+      "type": "student"
+    },
+    {
+      "cod": 20200116,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200116.jpg?20210623100540",
+      "lastName": "QUINTANA VILCA",
+      "firstName": "FABRIZZIO JOSIAS",
+      "dni": 72508477,
+      "type": "student"
+    },
+    {
+      "cod": 20200008,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200008.jpg?20191001024256",
+      "lastName": "QUINTO CERDA",
+      "firstName": "BRYAN CRISTOPHER",
+      "dni": 75487704,
+      "type": "student"
+    },
+    {
+      "cod": 20200281,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200281.jpg?20210708110518",
+      "lastName": "QUISPE FAJARDO",
+      "firstName": "ADRIAN ISMAEL",
+      "dni": 75074865,
+      "type": "student"
+    },
+    {
+      "cod": 20200010,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200010.jpg?20191001011848",
+      "lastName": "QUISPE FLORES",
+      "firstName": "CLAUDIA URSULA",
+      "dni": 72445431,
+      "type": "student"
+    },
+    {
+      "cod": 20207177,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gestión de la Información  y del Conocimiento",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "QUISPE GERÓNIMO",
+      "firstName": "CARLOS EFRAIN",
+      "dni": 10140816,
+      "type": "student"
+    },
+    {
+      "cod": 20207089,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/501/0010020207089.jpg?20220628112822",
+      "lastName": "QUISPE OBREGÓN",
+      "firstName": "JOHNNY RICHARD",
+      "dni": 40773203,
+      "type": "student"
+    },
+    {
+      "cod": 20207090,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "QUISPE REYES",
+      "firstName": "CARLOS FELIX",
+      "dni": 20120462,
+      "type": "student"
+    },
+    {
+      "cod": 20200233,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200233.jpg?20230522043523",
+      "lastName": "QUIÑONEZ FLORES",
+      "firstName": "DIEGO",
+      "dni": 72429934,
+      "type": "student"
+    },
+    {
+      "cod": 20200282,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200282.jpg?20230522043527",
+      "lastName": "RAMIREZ GARCIA",
+      "firstName": "JORGE ARMANDO",
+      "dni": 72666079,
+      "type": "student"
+    },
+    {
+      "cod": 20200072,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200072.jpg?20191001024528",
+      "lastName": "RAMIREZ SANCHEZ",
+      "firstName": "WALDIR",
+      "dni": 72551101,
+      "type": "student"
+    },
+    {
+      "cod": 20207182,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gestión de la Información  y del Conocimiento",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/402/0010020207182.jpg?20220618034728",
+      "lastName": "RAMOS CHÁVEZ",
+      "firstName": "HÉCTOR ONOFRIO",
+      "dni": "04070575",
+      "type": "student"
+    },
+    {
+      "cod": 20207049,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207049.jpg?20210723070054",
+      "lastName": "RAMOS NINA",
+      "firstName": "ROSA ANGELICA",
+      "dni": 72726279,
+      "type": "student"
+    },
+    {
+      "cod": 20200201,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200201.jpg?20210608023756",
+      "lastName": "REMON CHAVARRIA",
+      "firstName": "LUIS ANGELO",
+      "dni": 72733186,
+      "type": "student"
+    },
+    {
+      "cod": 20200202,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200202.jpg?20210608024512",
+      "lastName": "RETUERTO SANTILLAN",
+      "firstName": "MAURO ALEJANDRO",
+      "dni": 74995330,
+      "type": "student"
+    },
+    {
+      "cod": 20207091,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "REYES HUAMAN",
+      "firstName": "ANITA MARLENE",
+      "dni": 10399394,
+      "type": "student"
+    },
+    {
+      "cod": 20200283,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200283.jpg?20210708110702",
+      "lastName": "RIVAS RODRIGUEZ",
+      "firstName": "ISAAC JACOB",
+      "dni": 76857419,
+      "type": "student"
+    },
+    {
+      "cod": 20200203,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200203.jpg?20210630111644",
+      "lastName": "RIVERA BENITES",
+      "firstName": "LUCIA ALEJANDRA",
+      "dni": 76189417,
+      "type": "student"
+    },
+    {
+      "cod": 20200284,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200284.jpg?20210608040608",
+      "lastName": "RIVERA INCHE",
+      "firstName": "ERLY TORIBIO",
+      "dni": 75043726,
+      "type": "student"
+    },
+    {
+      "cod": 20200204,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200204.jpg?20210608024724",
+      "lastName": "ROBLES MATIENZO",
+      "firstName": "RUBEN DAVID",
+      "dni": 72607635,
+      "type": "student"
+    },
+    {
+      "cod": 20200285,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200285.jpg?20210623122152",
+      "lastName": "RODAS PANAIFO",
+      "firstName": "JORDAN ANDRE",
+      "dni": 72549856,
+      "type": "student"
+    },
+    {
+      "cod": 20200205,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "RODRIGUEZ ABANTO",
+      "firstName": "SEBASTIAN ALEXANDER",
+      "dni": 77067793,
+      "type": "student"
+    },
+    {
+      "cod": 20200206,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200206.jpg?20210608025116",
+      "lastName": "RODRIGUEZ HUAMANI",
+      "firstName": "LIAN MIGUEL",
+      "dni": 72674751,
+      "type": "student"
+    },
+    {
+      "cod": 20130152,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020130152.jpg?20220420021934",
+      "lastName": "RODRIGUEZ HURTADO",
+      "firstName": "SMITH",
+      "dni": 70789583,
+      "type": "student"
+    },
+    {
+      "cod": 20207125,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "RODRIGUEZ SANCHEZ",
+      "firstName": "FERNANDO LUIS ENRIQUE",
+      "dni": "06786402",
+      "type": "student"
+    },
+    {
+      "cod": 20200014,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200014.jpg?20230926101156",
+      "lastName": "ROJAS GALA",
+      "firstName": "NICOLAS ALONSO",
+      "dni": 60781777,
+      "type": "student"
+    },
+    {
+      "cod": 20200117,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200117.jpg?20210708102940",
+      "lastName": "ROJAS HURTADO",
+      "firstName": "KAREN ANTONIA",
+      "dni": 75282131,
+      "type": "student"
+    },
+    {
+      "cod": 20200286,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200286.jpg?20210706012412",
+      "lastName": "ROJAS LEDESMA",
+      "firstName": "SERGIO ALEXANDER",
+      "dni": 70961375,
+      "type": "student"
+    },
+    {
+      "cod": 20200287,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200287.jpg?20210608040522",
+      "lastName": "ROJAS SOPLÍN",
+      "firstName": "OSCAR ALEXANDER",
+      "dni": 74917326,
+      "type": "student"
+    },
+    {
+      "cod": 20207138,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207138.jpg?20211116080604",
+      "lastName": "ROJAS VALDIVIA",
+      "firstName": "JOSE GERMAN",
+      "dni": 46644498,
+      "type": "student"
+    },
+    {
+      "cod": 20200312,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200312.jpg?20210720050726",
+      "lastName": "ROMERO DIAZ",
+      "firstName": "BIANCA ELIZABETH",
+      "dni": 74760568,
+      "type": "student"
+    },
+    {
+      "cod": 20200207,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200207.jpg?20220708022832",
+      "lastName": "ROMERO OVALLE",
+      "firstName": "ANTONY SAMUEL",
+      "dni": 76020735,
+      "type": "student"
+    },
+    {
+      "cod": 20200208,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200208.jpg?20210608025344",
+      "lastName": "ROMERO RUIZ",
+      "firstName": "JOSE DANIEL",
+      "dni": 74811283,
+      "type": "student"
+    },
+    {
+      "cod": 20200288,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200288.jpg?20210701100008",
+      "lastName": "ROSAS SEQUEIROS",
+      "firstName": "FABRICIO",
+      "dni": 73268630,
+      "type": "student"
+    },
+    {
+      "cod": 20207136,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207136.jpg?20220714031541",
+      "lastName": "SAAVEDRA MENDOZA",
+      "firstName": "WILMER",
+      "dni": "07307935",
+      "type": "student"
+    },
+    {
+      "cod": 20200209,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200209.jpg?20230918030304",
+      "lastName": "SAENZ CABRERA",
+      "firstName": "RICHARD MEL AGUSTIN",
+      "dni": 71711704,
+      "type": "student"
+    },
+    {
+      "cod": 20200095,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200095.jpg?20230925045152",
+      "lastName": "SAENZ COTRINA",
+      "firstName": "IVAN DIEGO",
+      "dni": 72744062,
+      "type": "student"
+    },
+    {
+      "cod": 20200026,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200026.jpg?20231115031453",
+      "lastName": "SAENZ CUEVAS",
+      "firstName": "LEONARDO RODOLFO",
+      "dni": 72550099,
+      "type": "student"
+    },
+    {
+      "cod": 20200290,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200290.jpg?20210623122254",
+      "lastName": "SAICO MERMA",
+      "firstName": "FAVIO GENARO",
+      "dni": 70997692,
+      "type": "student"
+    },
+    {
+      "cod": 20200210,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200210.jpg?20210630111536",
+      "lastName": "SALAS RAMIREZ",
+      "firstName": "MARCELO MITCHELL",
+      "dni": 72646989,
+      "type": "student"
+    },
+    {
+      "cod": 20207093,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/501/0010020207093.jpg?20220618034628",
+      "lastName": "SALAZAR CAMPOS",
+      "firstName": "JUAN ORLANDO",
+      "dni": 41852940,
+      "type": "student"
+    },
+    {
+      "cod": 20200291,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200291.jpg?20230927123600",
+      "lastName": "SALAZAR HERRERA",
+      "firstName": "OSCAR MIGUEL",
+      "dni": 74125542,
+      "type": "student"
+    },
+    {
+      "cod": 20200211,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200211.jpg?20210608025532",
+      "lastName": "SALCEDO TICA",
+      "firstName": "STEVEN HUGO",
+      "dni": 75227971,
+      "type": "student"
+    },
+    {
+      "cod": 20200292,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200292.jpg?20210608040850",
+      "lastName": "SALINAS MEJIAS",
+      "firstName": "RAMSES ALFONZO",
+      "dni": 136054263,
+      "type": "student"
+    },
+    {
+      "cod": 20200212,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200212.jpg?20210608025700",
+      "lastName": "SAMANIEGO NOLAZCO",
+      "firstName": "FRANK DIEGO MARCELINO",
+      "dni": 74709476,
+      "type": "student"
+    },
+    {
+      "cod": 20200213,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200213.jpg?20210608025834",
+      "lastName": "SANCHEZ CUEVA",
+      "firstName": "JULIA ESTEFANY",
+      "dni": 74828121,
+      "type": "student"
+    },
+    {
+      "cod": 20200214,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200214.jpg?20210608025942",
+      "lastName": "SANCHEZ MIRONES",
+      "firstName": "MARIO EDUARDO",
+      "dni": 72652132,
+      "type": "student"
+    },
+    {
+      "cod": 20200087,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200087.jpg?20191001122944",
+      "lastName": "SANCHEZ MONTALVAN",
+      "firstName": "JESUS SEBASTIAN",
+      "dni": 74297337,
+      "type": "student"
+    },
+    {
+      "cod": 20200053,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200053.jpg?20191001122334",
+      "lastName": "SANCHEZ VILLALTA",
+      "firstName": "NIXON",
+      "dni": 73150759,
+      "type": "student"
+    },
+    {
+      "cod": 20207083,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/403/0010020207083.jpg?20210723113118",
+      "lastName": "SANDOVAL AMASIFUEN",
+      "firstName": "EDWARD",
+      "dni": 40360379,
+      "type": "student"
+    },
+    {
+      "cod": 20200234,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200234.jpg?20210608031316",
+      "lastName": "SEMINARIO VALDIVIA",
+      "firstName": "CAROLINA ISABEL",
+      "dni": 74867277,
+      "type": "student"
+    },
+    {
+      "cod": 20207119,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "SIMICH LOPEZ",
+      "firstName": "VICTOR ARTURO",
+      "dni": "08666248",
+      "type": "student"
+    },
+    {
+      "cod": 20200055,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200055.jpg?20191001020024",
+      "lastName": "SOLANO OTINIANO",
+      "firstName": "LUCIA ALEJANDRA",
+      "dni": 72674316,
+      "type": "student"
+    },
+    {
+      "cod": 20200293,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200293.jpg?20210708111200",
+      "lastName": "SOLIS FLORES",
+      "firstName": "ALDAIR JHOSTIN",
+      "dni": 71340078,
+      "type": "student"
+    },
+    {
+      "cod": 20200294,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200294.jpg?20210608042600",
+      "lastName": "SORIA VILLANUEVA",
+      "firstName": "MIGUEL STALIN",
+      "dni": 70768909,
+      "type": "student"
+    },
+    {
+      "cod": 20207183,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gestión de la Información  y del Conocimiento",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/402/0010020207183.jpg?20210723114350",
+      "lastName": "SULLÓN NAVARRO",
+      "firstName": "LUIS IVÁN",
+      "dni": 45568143,
+      "type": "student"
+    },
+    {
+      "cod": 20207153,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "TACO NAVARRO",
+      "firstName": "GROVER OMAR",
+      "dni": 43436616,
+      "type": "student"
+    },
+    {
+      "cod": 20200049,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200049.jpg?20191001025624",
+      "lastName": "TACURI ESPINOZA",
+      "firstName": "RENZO PAOLO",
+      "dni": 72921589,
+      "type": "student"
+    },
+    {
+      "cod": 20200118,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200118.jpg?20210623100748",
+      "lastName": "TAIPE JAVIER",
+      "firstName": "LUIS ANGEL",
+      "dni": 75731613,
+      "type": "student"
+    },
+    {
+      "cod": 20200031,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200031.jpg?20230928041814",
+      "lastName": "TAKO NUÑEZ",
+      "firstName": "JARDEL HAMED",
+      "dni": 76962780,
+      "type": "student"
+    },
+    {
+      "cod": 20207129,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207129.jpg?20210723113352",
+      "lastName": "TAMASHIRO PALOMINO",
+      "firstName": "CHRISTIAN SOICHI",
+      "dni": 72905960,
+      "type": "student"
+    },
+    {
+      "cod": 20200033,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200033.jpg?20231002122533",
+      "lastName": "TAMBILLO BORJA",
+      "firstName": "LEONCIO JOSUE",
+      "dni": 77165536,
+      "type": "student"
+    },
+    {
+      "cod": 20200295,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200295.jpg?20210623122414",
+      "lastName": "TAMBILLO BORJA",
+      "firstName": "MAURO JUNIOR",
+      "dni": 77165538,
+      "type": "student"
+    },
+    {
+      "cod": 20200296,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200296.jpg?20210608022346",
+      "lastName": "TAPIA SARMIENTO",
+      "firstName": "DIEGO SEBASTIAN JOSEPH",
+      "dni": 72963377,
+      "type": "student"
+    },
+    {
+      "cod": 20200297,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200297.jpg?20210706012538",
+      "lastName": "TARRILLO SOTO",
+      "firstName": "GIBRAN LEONCIO",
+      "dni": 74831767,
+      "type": "student"
+    },
+    {
+      "cod": 20200298,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200298.jpg?20230925045152",
+      "lastName": "TEJEDA ECHEGARAY",
+      "firstName": "YOSMAR ALDAIR",
+      "dni": 72261367,
+      "type": "student"
+    },
+    {
+      "cod": 20207166,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "TELLO HUANCA",
+      "firstName": "IVAN",
+      "dni": 45684186,
+      "type": "student"
+    },
+    {
+      "cod": 20200083,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200083.jpg?20191002112806",
+      "lastName": "TERREROS COTERA",
+      "firstName": "ROMMINA SHULIETA",
+      "dni": 75348378,
+      "type": "student"
+    },
+    {
+      "cod": 20200299,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "TINEO CASTILLO",
+      "firstName": "VICTOR MANUEL",
+      "dni": 72782653,
+      "type": "student"
+    },
+    {
+      "cod": 20200216,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200216.jpg?20210608030202",
+      "lastName": "TOLENTINO TANTARUNA",
+      "firstName": "JOSÉ ALONSO",
+      "dni": 72875950,
+      "type": "student"
+    },
+    {
+      "cod": 20200300,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200300.jpg?20210608023234",
+      "lastName": "TOMAYQUISPE RAMOS",
+      "firstName": "JORGE LUIS",
+      "dni": 75274271,
+      "type": "student"
+    },
+    {
+      "cod": 20207145,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/401/0010020207145.jpg?20210723113558",
+      "lastName": "TORO TELLO",
+      "firstName": "ELMER DOMINGO",
+      "dni": 41278721,
+      "type": "student"
+    },
+    {
+      "cod": 20207094,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "TORRES BENAVIDES",
+      "firstName": "JUAN ANTONIO",
+      "dni": 41055071,
+      "type": "student"
+    },
+    {
+      "cod": 20200217,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200217.jpg?20210608030310",
+      "lastName": "TORRES DONAYRE",
+      "firstName": "YESENIA ANDREA",
+      "dni": 75720836,
+      "type": "student"
+    },
+    {
+      "cod": 20200218,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200218.jpg?20230928104259",
+      "lastName": "TORRES ESPINOZA",
+      "firstName": "ALEJANDRO PAUL",
+      "dni": 76524906,
+      "type": "student"
+    },
+    {
+      "cod": 20200088,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200088.jpg?20191001032426",
+      "lastName": "TORRES POMA",
+      "firstName": "DIEGO PABLO",
+      "dni": 74716605,
+      "type": "student"
+    },
+    {
+      "cod": 20200022,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200022.jpg?20191001022144",
+      "lastName": "TORRES VELASQUEZ",
+      "firstName": "RICARDO MANUEL",
+      "dni": 74694529,
+      "type": "student"
+    },
+    {
+      "cod": 20200096,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200096.jpg?20191001124752",
+      "lastName": "TOVAR CANTURIN",
+      "firstName": "DANIEL ARIEL",
+      "dni": 73203107,
+      "type": "student"
+    },
+    {
+      "cod": 20200301,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200301.jpg?20210608023418",
+      "lastName": "TRIVEÑO RUFFNER",
+      "firstName": "DANIEL HUBER",
+      "dni": 72875654,
+      "type": "student"
+    },
+    {
+      "cod": 20200302,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200302.jpg?20210608023540",
+      "lastName": "TUYO ACERO",
+      "firstName": "GUSTAVO ALONSO",
+      "dni": 71224146,
+      "type": "student"
+    },
+    {
+      "cod": 20200219,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200219.jpg?20210708105008",
+      "lastName": "URBANO QUISPE",
+      "firstName": "ADRIAN RODRIGO",
+      "dni": 72839157,
+      "type": "student"
+    },
+    {
+      "cod": 20207181,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gestión de la Información  y del Conocimiento",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/402/0010020207181.jpg?20210723114300",
+      "lastName": "URBANO VILLARREAL",
+      "firstName": "RICARDO EDUARDO",
+      "dni": 72934199,
+      "type": "student"
+    },
+    {
+      "cod": 20200220,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200220.jpg?20210607082532",
+      "lastName": "VALDIVIA MARCELO",
+      "firstName": "SERGIO MANUEL",
+      "dni": 70876207,
+      "type": "student"
+    },
+    {
+      "cod": 20200035,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200035.jpg?20231002122534",
+      "lastName": "VALDIVIA QUISPE",
+      "firstName": "CHRISTIAN GUILLERMO ARTURO",
+      "dni": 75657768,
+      "type": "student"
+    },
+    {
+      "cod": 20200221,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200221.jpg?20210608030546",
+      "lastName": "VALER PEREZ",
+      "firstName": "FABRIZIO ALEXIS",
+      "dni": 75224178,
+      "type": "student"
+    },
+    {
+      "cod": 20200108,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200108.jpg?20191002073436",
+      "lastName": "VALLE DURAND",
+      "firstName": "MIGUEL ANGEL",
+      "dni": 75869467,
+      "type": "student"
+    },
+    {
+      "cod": 20200101,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200101.jpg?20191001020416",
+      "lastName": "VALLE MENDOZA",
+      "firstName": "YERALDIN IVON",
+      "dni": 74613547,
+      "type": "student"
+    },
+    {
+      "cod": 20200109,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200109.jpg?20230927061200",
+      "lastName": "VALQUI TRUJILLO",
+      "firstName": "JACK MARLON",
+      "dni": 74648160,
+      "type": "student"
+    },
+    {
+      "cod": 20200222,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200222.jpg?20210708105308",
+      "lastName": "VARA SALLO",
+      "firstName": "IVAN ANTHONY",
+      "dni": 74643551,
+      "type": "student"
+    },
+    {
+      "cod": 20200223,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200223.jpg?20210708105402",
+      "lastName": "VARGAS GONZALES",
+      "firstName": "JORGE ANTONY",
+      "dni": 75834460,
+      "type": "student"
+    },
+    {
+      "cod": 20200119,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200119.jpg?20210623100912",
+      "lastName": "VARGAS QUISPE",
+      "firstName": "JEFFERSON",
+      "dni": 73023432,
+      "type": "student"
+    },
+    {
+      "cod": 20207160,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "VARGAS TORRES CÉLIZ",
+      "firstName": "EZEQUIEL",
+      "dni": 25480076,
+      "type": "student"
+    },
+    {
+      "cod": 20200064,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200064.jpg?20230925045152",
+      "lastName": "VASQUEZ PALOMINO",
+      "firstName": "ASHEL JOSEPH",
+      "dni": 72787121,
+      "type": "student"
+    },
+    {
+      "cod": 20200086,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200086.jpg?20231002122536",
+      "lastName": "VELARDE HUANCAHUARI",
+      "firstName": "BRYAN ANTHONY",
+      "dni": 72744811,
+      "type": "student"
+    },
+    {
+      "cod": 20207174,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/403/0010020207174.jpg?20220429021255",
+      "lastName": "VELASCO AÑASCO",
+      "firstName": "HOSSMELL HERNAN",
+      "dni": 45246205,
+      "type": "student"
+    },
+    {
+      "cod": 20200303,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200303.jpg?20221103102131",
+      "lastName": "VELASQUEZ DIAZ",
+      "firstName": "AHMAD ROSHAN",
+      "dni": 72896011,
+      "type": "student"
+    },
+    {
+      "cod": 20200305,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200305.jpg?20210608023634",
+      "lastName": "VENTURA RUIZ",
+      "firstName": "JEFFERSON JESUS",
+      "dni": 72789306,
+      "type": "student"
+    },
+    {
+      "cod": 20200120,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200120.jpg?20210623101110",
+      "lastName": "VILCA VELASQUEZ",
+      "firstName": "JAVIER ALBERTO",
+      "dni": 60786264,
+      "type": "student"
+    },
+    {
+      "cod": 20200224,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200224.jpg?20210608030624",
+      "lastName": "VILLAFRANCA CARDOSO",
+      "firstName": "PATRICK CRISTOPHER",
+      "dni": 75966017,
+      "type": "student"
+    },
+    {
+      "cod": 20200235,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200235.jpg?20210608031806",
+      "lastName": "VILLANUEVA MONRROY",
+      "firstName": "XAVIER ANGEL",
+      "dni": 72754441,
+      "type": "student"
+    },
+    {
+      "cod": 20200306,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200306.jpg?20210608023858",
+      "lastName": "VILLAR ARIAS",
+      "firstName": "ANGELO ANDRE",
+      "dni": 76024057,
+      "type": "student"
+    },
+    {
+      "cod": 20200038,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200038.jpg?20191001122510",
+      "lastName": "VILLAVICENCIO DE LA SERNA",
+      "firstName": "JIMMY MANYEAR",
+      "dni": 73175398,
+      "type": "student"
+    },
+    {
+      "cod": 20200134,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "VISE CHUMPITAZ",
+      "firstName": "DANIEL SETH",
+      "dni": 73026029,
+      "type": "student"
+    },
+    {
+      "cod": 20207128,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingenieria de Sistemas e Informática",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/sinimg.jpg",
+      "lastName": "VÁSQUEZ ROBLES",
+      "firstName": "JOHN EFRAÍN",
+      "dni": 20073295,
+      "type": "student"
+    },
+    {
+      "cod": 20207169,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Gobierno de Tecnologías de Información",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/403/0010020207169.jpg?20210723114050",
+      "lastName": "YUPARI GÁLVEZ",
+      "firstName": "SHERELLY YEDIZZA",
+      "dni": 70670972,
+      "type": "student"
+    },
+    {
+      "cod": 20200225,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200225.jpg?20210608030824",
+      "lastName": "ZACARIAS VILCA",
+      "firstName": "BRAYAMS JHONATAN",
+      "dni": 73494706,
+      "type": "student"
+    },
+    {
+      "cod": 20200239,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200239.jpg?20220708022833",
+      "lastName": "ZAMBRANO SOLANO",
+      "firstName": "JULIO CESAR ISIDRO",
+      "dni": 41573393,
+      "type": "student"
+    },
+    {
+      "cod": 20200097,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200097.jpg?20191002122226",
+      "lastName": "ZAVALA SANCHEZ",
+      "firstName": "DIEGO ALONSO",
+      "dni": 75510544,
+      "type": "student"
+    },
+    {
+      "cod": 20200024,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Software",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/2/0010020200024.jpg?20191001020128",
+      "lastName": "ZAVALETA NUÑEZ",
+      "firstName": "DANIEL ANDRES",
+      "dni": 72877838,
+      "type": "student"
+    },
+    {
+      "cod": 20200032,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200032.jpg?20191001024708",
+      "lastName": "ZAVALETA VEGA",
+      "firstName": "ADRIAN ERNESTO",
+      "dni": 72920188,
+      "type": "student"
+    },
+    {
+      "cod": 20200241,
+      "faculty": "FACULTAD DE INGENIERÍA DE SISTEMAS E INFORMÁTICA",
+      "career": "Ingeniería de Sistemas",
+      "image": "http://websecgen.unmsm.edu.pe/carne/imagenes-UNMSM/20/1/0010020200241.jpg?20210608032318",
+      "lastName": "ÑUFLO PAUCAR",
+      "firstName": "STEFANO JESUS",
+      "dni": 72805944,
+      "type": "student"
+    }
+  ]
+}

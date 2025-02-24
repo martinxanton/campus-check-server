@@ -1,0 +1,11 @@
+{
+  "admin": {
+    "dni": 76543210,
+    "firstName": "Admin",
+    "lastName": "Admin",
+    "email": "admin@gmail.com",
+    "phone": "987654321",
+    "user": "admin",
+    "password": "admin"
+  }
+}
