@@ -4,10 +4,6 @@ import { DB_URI } from "./config.js";
 const sequelize = new Sequelize(DB_URI, {
   dialect: "postgres",
   dialectOptions: {
-    useIPv6: false,
-  },
-  logging: true,
-  dialectOptions: {
     timezone: "-05:00",
   },
   timezone: "-05:00",
@@ -15,7 +11,7 @@ const sequelize = new Sequelize(DB_URI, {
 
 // Test connection
 try {
-  await sequelize.authenticate();
+  sequelize.authenticate();
   console.log("Database connection has been established successfully.");
 } catch (error) {
   console.error("Unable to connect to the database:", error);
