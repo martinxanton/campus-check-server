@@ -1,7 +1,12 @@
 import { Sequelize } from "sequelize";
-import { DB_URI } from "./config.js";
+import { DB_NAME, DB_USER, DB_PASSWORD, DB_HOST, DB_PORT } from "./config.js";
 
-const sequelize = new Sequelize("postgresql://postgres:Martin1614*@db.imwwzcgekipmernuvcvy.supabase.co:5432/postgres", {
+const sequelize = new Sequelize({
+  database: DB_NAME,
+  username: DB_USER,
+  password: DB_PASSWORD,
+  host: DB_HOST,
+  port: DB_PORT,
   dialect: "postgres",
   dialectOptions: {
     ssl: {
@@ -15,6 +20,7 @@ const sequelize = new Sequelize("postgresql://postgres:Martin1614*@db.imwwzcgeki
 
 // Test connection
 try {
+  console.log(DB_HOST, DB_PORT, DB_USER, DB_NAME);
   await sequelize.authenticate();
   console.log("Database connection has been established successfully.");
 } catch (error) {
