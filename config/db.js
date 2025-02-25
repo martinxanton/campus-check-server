@@ -7,12 +7,8 @@ const sequelize = new Sequelize({
   password: DB_PASSWORD,
   host: DB_HOST,
   port: DB_PORT,
-  dialect: "postgres",
+  dialect: "mysql",
   dialectOptions: {
-    ssl: {
-      require: true,
-      rejectUnauthorized: false, // Necesario para certificados autofirmados
-    },
     timezone: "-05:00",
   },
   timezone: "-05:00",
@@ -20,7 +16,6 @@ const sequelize = new Sequelize({
 
 // Test connection
 try {
-  console.log(DB_HOST, DB_PORT, DB_USER, DB_NAME);
   await sequelize.authenticate();
   console.log("Database connection has been established successfully.");
 } catch (error) {
