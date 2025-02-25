@@ -1,9 +1,13 @@
 import { Sequelize } from "sequelize";
 import { DB_URI } from "./config.js";
 
-const sequelize = new Sequelize(DB_URI, {
+const sequelize = new Sequelize("postgresql://postgres:Martin1614*@db.imwwzcgekipmernuvcvy.supabase.co:5432/postgres", {
   dialect: "postgres",
   dialectOptions: {
+    ssl: {
+      require: true,
+      rejectUnauthorized: false, // Necesario para certificados autofirmados
+    },
     timezone: "-05:00",
   },
   timezone: "-05:00",
