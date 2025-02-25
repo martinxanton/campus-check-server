@@ -15,6 +15,9 @@ Date.prototype.toJSON = function () {
   return this.toLocaleString();
 };
 
+// Set PORT
+const PORT_DINAMIC = PORT || 3000;
+
 // Create an Express application
 const app = express();
 
@@ -22,8 +25,8 @@ const app = express();
 const init = async () => {
   await sequelize.sync();
   await dbSeeding();
-  app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}.`);
+  app.listen(PORT_DINAMIC, () => {
+    console.log(`Server is running on port ${PORT_DINAMIC}.`);
   });
 };
 
